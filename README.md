@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/imagen-linkedin.jpg"
+       alt="Rodolfo Estrada - LinkedIn profile photo"
+       width="600" />
+</p>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rofolfo Estrada
 ========================================================================================================================================
 
