@@ -15,15 +15,18 @@ Before moving into tech, I worked as a quality analyst and project engineer, whi
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg"
-         alt="React" title="React" width="36" height="36"/>
+         alt="React" title="React" width="36" height="36"
+         style="filter: invert(1);" />
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/jira.svg"
-         alt="Jira" title="Jira" width="36" height="36"/>
+         alt="Jira" title="Jira" width="36" height="36"
+         style="filter: invert(1);" />
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/postman.svg"
-         alt="Postman" title="Postman" width="36" height="36"/>
+         alt="Postman" title="Postman" width="36" height="36"
+         style="filter: invert(1);" />
   </a>
 </p>
 
