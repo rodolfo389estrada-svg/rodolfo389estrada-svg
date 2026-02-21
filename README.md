@@ -13,15 +13,18 @@ Before moving into tech, I worked as a quality analyst and project engineer, whi
 * 👥  I'm looking to collaborate on Manual testing and test case design | API testing (Postman) | Bug reporting and documentation (Jira) | Test scenarios: smoke, positive, negative, regression | QA projects and learning-focused repositories
 
 <p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" />
-</a>
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jira-colored.svg" alt="Jira" title="Jira" width="36" height="36" />
-</a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postman-colored.svg" alt="Postman" title="Postman" width="36" height="36" />
-</a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg"
+         alt="React" title="React" width="36" height="36"/>
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/jira.svg"
+         alt="Jira" title="Jira" width="36" height="36"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/postman.svg"
+         alt="Postman" title="Postman" width="36" height="36"/>
+  </a>
 </p>
 
 ### Socials
