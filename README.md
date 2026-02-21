@@ -12,9 +12,9 @@ Before moving into tech, I worked as a quality analyst and project engineer, whi
 * ✉️  You can contact me at [rodolfo389estrada@gmail.com](mailto:rodolfo389estrada@gmail.com)
 * 👥  I'm looking to collaborate on Manual testing and test case design | API testing (Postman) | Bug reporting and documentation (Jira) | Test scenarios: smoke, positive, negative, regression | QA projects and learning-focused repositories
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ### Socials
 
