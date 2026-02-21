@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rofolfo Estrada
 ========================================================================================================================================
 
-QA Engineer Jr
+#QA Engineer Jr
 --------------
 
-I come from an industrial background and I’m currently training as a QA Engineer at TripleTen, where I’m learning software quality assurance through manual testing and API testing. I work with tools like Postman and Jira to test applications and document bugs.
+I come from an industrial background and I’m currently training as a QA Engineer at TripleTen, where I’m learning software quality assurance through manual testing and API testing. I work with tools like Postman, React and Jira to test applications and document bugs.
 
 Before moving into tech, I worked as a quality analyst and project engineer, which gave me a strong mindset around processes, continuous improvement, and problem-solving. Now I’m transitioning into IT as a QA Tester, bringing fresh ideas, curiosity, and a strong desire to keep learning. I’m always happy to help, grow together as a team, and build better products. I truly believe in teamwork and continuous improvement in any environment.
 
