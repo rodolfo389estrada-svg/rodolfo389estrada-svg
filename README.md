@@ -24,7 +24,15 @@ Before moving into tech, I worked as a quality analyst and project engineer, whi
 
 # Urban Routes – QA Case Study
 
-## Project Overview   urban-routes-qa-project
+## Featured QA Project
+
+🚖 **Urban Routes – QA Case Study**  
+Hands-on QA project focused on functional testing, test case design, and bug reporting.
+
+👉 **View the project here:**  
+🔗 https://github.com/rodolfo389estrada-svg/urban-routes-qa-project
+
+## Project Overview
 This project represents my first hands-on experience in **Quality Assurance**, focused on functional testing and bug reporting for a ride-hailing application called **Urban Routes**.
 
 Urban Routes is a private transportation application similar to Uber or DiDi, offering multiple transport options such as bicycles, taxis, motorcycles, standard cars, and luxury vehicles, as well as additional services.
