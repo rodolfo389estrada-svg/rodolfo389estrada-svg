@@ -89,12 +89,21 @@ When a test case failed, I created a structured bug report including:
 </details>
 
 
-## Key Learnings
+<details>
+<summary><strong>🎯 Key Learnings</strong></summary>
+
+<br>
+
 This project helped me develop strong foundations in:
-- Functional analysis
-- Test case creation and execution
-- Bug documentation and severity assessment
-- Attention to detail and critical thinking
+
+- Functional analysis from the end-user perspective  
+- Test case design and execution  
+- Structured bug reporting and severity assessment  
+- Attention to detail and critical thinking  
+- Clear documentation and communication for QA processes  
+
+</details>
+
 
 ---
 
