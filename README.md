@@ -119,7 +119,7 @@ First hands-on **QA project** focused on functional testing of a ride-hailing we
 The project validates critical user flows from an end-user perspective, applying structured test design and bug reporting practices.
 
 🔗 **Full project repository:**  
-👉 https://github.com/TU-USUARIO/urban-routes-qa-project
+👉 https://github.com/rodolfo389estrada-svg/urban-routes-qa-project-part-two
 
 </details>
 
