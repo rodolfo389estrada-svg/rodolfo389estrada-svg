@@ -32,6 +32,19 @@ Hands-on QA project focused on functional testing, test case design, and bug rep
 👉 **View the project here:**  
 🔗 https://github.com/rodolfo389estrada-svg/urban-routes-qa-project
 
+
+<details>
+<summary><strong>📌 Project Overview</strong></summary>
+
+<br>
+
+This project represents my first hands-on experience in **Quality Assurance**, focused on functional testing and bug reporting for a ride-hailing application called **Urban Routes**.
+
+Urban Routes is a private transportation application similar to Uber or DiDi, offering multiple transport options such as bicycles, taxis, motorcycles, standard cars, and luxury vehicles, as well as additional services.
+
+</details>
+
+
 ## Project Overview
 This project represents my first hands-on experience in **Quality Assurance**, focused on functional testing and bug reporting for a ride-hailing application called **Urban Routes**.
 
