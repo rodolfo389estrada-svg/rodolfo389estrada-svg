@@ -35,10 +35,13 @@ Hands-on QA project focused on functional testing, test case design, and bug rep
 
 <details>
 <summary><strong>📌 Project Overview</strong></summary>
+  
 <br>
+
 This project represents my first hands-on experience in **Quality Assurance**, focused on functional testing and bug reporting for a ride-hailing application called **Urban Routes**.
 
 Urban Routes is a private transportation application similar to Uber or DiDi, offering multiple transport options such as bicycles, taxis, motorcycles, standard cars, and luxury vehicles, as well as additional services.
+
 </details>
 
 <details>
@@ -55,32 +58,36 @@ The main goal of this project was to validate the system behavior from the **end
 
 </details>
 
+<details>
+<summary><strong>📝 Test Case Design</strong></summary>
 
-## Testing Scope
-The main goal of this project was to validate the system behavior from the **end-user perspective**, focusing on:
+<br>
 
-- Address input fields ("From" and "To")
-- Map behavior and route visualization
-- Transport selection options
-- UI interactions
-
-## Test Case Design
 I designed and executed **35 test cases**, each documented with:
-- Test Case ID
-- Title
-- Preconditions
-- Step-by-step actions
-- Expected result
+- Test Case ID  
+- Title  
+- Preconditions  
+- Step-by-step actions  
+- Expected result  
 - Test status (Passed / Omitted)
 
-## Bug Reporting
+</details>
+
+<details>
+<summary><strong>🐞 Bug Reporting</strong></summary>
+
+<br>
+
 When a test case failed, I created a structured bug report including:
-- Bug ID
-- Clear and concise title
-- Steps to reproduce
-- Expected result
-- Actual result
+- Bug ID  
+- Clear and concise title  
+- Steps to reproduce  
+- Expected result  
+- Actual result  
 - Severity level (Low / Medium / High)
+
+</details>
+
 
 ## Key Learnings
 This project helped me develop strong foundations in:
