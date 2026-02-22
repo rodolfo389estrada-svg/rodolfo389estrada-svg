@@ -1,6 +1,17 @@
 ![Profile](imagen-linkedin.jfif)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rofolfo Estrada
+<h1 align="center"> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+
+  Hi, my name is 
+  <span style="
+    background: linear-gradient(90deg, #00c6ff, #0072ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 800;
+  ">
+    Rodolfo Estrada
+  </span>
+</h1>
 ========================================================================================================================================
 
 QA Engineer Jr
