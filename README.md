@@ -108,3 +108,48 @@ This project helped me develop strong foundations in:
 ---
 
 📌 *This repository showcases my QA mindset, documentation skills, and ability to analyze software behavior systematically.*
+
+
+## 🧪 QA Case Study — Urban Routes
+
+<details>
+<summary><strong>🔍 Project Overview</strong></summary>
+
+First hands-on **QA project** focused on functional testing of a ride-hailing web application similar to Uber and DiDi.  
+The project validates critical user flows from an end-user perspective, applying structured test design and bug reporting practices.
+
+🔗 **Full project repository:**  
+👉 https://github.com/TU-USUARIO/urban-routes-qa-project
+
+</details>
+
+<details>
+<summary><strong>🛠 QA Skills Applied</strong></summary>
+
+- Manual functional testing  
+- Test case design (equivalence classes)  
+- Bug reporting with severity levels  
+- Requirement analysis & flow validation  
+- QA documentation best practices  
+
+</details>
+
+<details>
+<summary><strong>📂 Key QA Artifacts</strong></summary>
+
+🔗 Mind Map — System Analysis  
+https://drive.google.com/file/d/1DDTZCbzmelM-0QQq0_i_B_xjSqeaj_XA/view  
+
+🔗 Equivalence Classes Table  
+https://docs.google.com/spreadsheets/d/1rJoDq0BgoUa5AHxhg9mtYk57bqc0aq8v/edit  
+
+🔗 User Flow Diagram  
+https://drive.google.com/file/d/1DXffWf-mQDjDQBj_jq2iyw7If_9_A3ne/view  
+
+🔗 Test Cases + Equivalence Classes  
+https://docs.google.com/spreadsheets/d/1h2Azfy9tPlz7N05XLM6tL5ARvolBzZCp/edit  
+
+</details>
+
+📌 *This section highlights my QA mindset and provides direct access to real testing artifacts.  
+Full documentation and details are available in the project repository.*
